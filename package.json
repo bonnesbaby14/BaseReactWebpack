@@ -2,5 +2,24 @@
   "dependencies": {
     "react": "^17.0.2",
     "react-dom": "^17.0.2"
-  }
+  },
+  "name": "reactwebpack",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bonnesbaby14/BaseReactWebpack.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bonnesbaby14/BaseReactWebpack/issues"
+  },
+  "homepage": "https://github.com/bonnesbaby14/BaseReactWebpack#readme",
+  "description": ""
 }
